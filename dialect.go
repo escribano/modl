@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/jmoiron/sqlx"
+	"github.com/escribano/sqlx"
 )
 
 // Dialect is an interface that encapsulates behaviors that differ across
